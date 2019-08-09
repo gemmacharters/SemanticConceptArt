@@ -1,4 +1,4 @@
 # Semantic Concept Art
-Development for Masters Degree Dissertation
-University of Hertfordshire
-Semantic Web Portasl for Concept ARt
+Development for Masters Degree Dissertation.
+University of Hertfordshire.
+Semantic Web Portal for Concept Art.
